@@ -36,7 +36,6 @@ The images are distributed relatively evenly across these categories, with a sli
 
 
 ## Conclusions
-### Conclusions
 
 1. **Effective Data Augmentation Strategy:**
 Initial experiments with a normal CNN resulted in low training and validation accuracy (20.25% and 17.89% respectively). This indicated overfitting and a need for better data handling. Implementing data augmentation significantly improved the model's performance, demonstrating that data augmentation is crucial for enhancing model robustness and preventing overfitting.
